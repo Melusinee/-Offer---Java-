@@ -1,4 +1,8 @@
+【--- 持续更新中 ---】
+
 下面的顺序全部为leetcode里按出现频率排序
+
+自己用来复习整理和学习的剑指offer解答，全部为自己尝试能够AC且尽量覆盖多解法的版本。全部按照面试出现频率排序
 
 *  62.圆圈中最后剩下的数字 [图文解释版](https://juejin.im/post/5efe1f736fb9a07ebe238437)
    * [用模拟链表解决](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/62-LinkedList.java)
