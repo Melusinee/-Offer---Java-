@@ -24,3 +24,10 @@
 *  13.机器人的运动范围 [图文解释版](https://juejin.im/post/5eff70256fb9a07ebe238619)
    * [DFS](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/13-1.java)
    * [BFS](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/13-2.java)
+   
+*  57 - II.和为s的连续正数序列 [图文解释版](https://juejin.im/post/5f0088006fb9a07eb32915fc)
+   * [滑动窗口](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/57%20-%20II.java)
+   
+*  13.40. 最小的k个数 [图文解释版](https://juejin.im/post/5f009d36f265da22f4240e50)
+   * [最大堆](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/40-1.java)
+   * [快速选择-快速排序的变形](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/40-2.java)
