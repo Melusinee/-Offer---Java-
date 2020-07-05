@@ -35,3 +35,10 @@
 *  48.最长不含重复字符的子字符串 [图文解释版](https://juejin.im/post/5f00c5425188252e937bddb7)
    * [动态规划加Map](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/48-1.java)
    * [双指针加Map](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/48-2.java)
+ 
+*  34.二叉树中和为某一值的路径 [图文解释版](https://juejin.im/post/5f020ae7f265da22db2c176b)
+   * [回溯DFS](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/34.java)
+
+*  63.股票的最大利润 [图文解释版](https://juejin.im/post/5f0211ba6fb9a07e85729297)
+   * [动态规划](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/63-1.java)
+   * [动态规划优化](https://github.com/Melusinee/JianZhiOffer-LeetCode-Java/blob/master/63-2.java)
